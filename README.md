@@ -7,7 +7,7 @@ A working prototype made by Streamlit can be found here: https://mlproject-books
 
 ## Project Description
 
-After a user selects a book of their preference, the system recommends 5 books that are similar to that selected books.
+After a user selects a book of their preference, the system recommends 5 books with their titles and Book Covers that are similar to that selected book.
 
 How the system selects the similar books:
 - All the books informations are converted as tags and those tags are then converted into vectors. These vectors help us to find the similar books as only sorting through them gives us the most similar books.
