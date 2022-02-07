@@ -21,8 +21,9 @@ Datasets used: https://www.kaggle.com/tanguypledel/science-fiction-books-subgenr
 
 - Python 
 - - For Data Manipulation & Tags Making : Pandas, NumPy, nltk, ast
-- - For Vectorization: sklearn, pickle
+- - For Vectorization: sklearn
 - - For converting GoodReads Urls to Books cover Image URLs: BeautifulSoup
+- - For data extraction: pickle
 - - Implementation: StreamLit, Heroku
 
 ## License
