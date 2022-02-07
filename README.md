@@ -16,7 +16,8 @@ The website is deployed using streamlit library which uses the pickled files for
 
 ## Used
 
-- Python (Pandas, NumPy, nltk, sklearn, pickle, BeautifulSoup, StreamLit)
+- Python 
+-  - (Pandas, NumPy, nltk, sklearn, pickle, BeautifulSoup, StreamLit)
 
 ## License
 
