@@ -5,6 +5,8 @@
 This Machine Learning project is a Book Recommendation System.
 A working prototype made by Streamlit can be found here: https://mlproject-books-recommender.herokuapp.com/
 
+![Sample GIF](https://i.ibb.co/2c9JB69/screencast-mlproject-books-recommender-herokuapp-com-2022-02-10-04-33-02.gif)
+
 ## Project Description
 
 After a user selects a book of their preference, the system recommends 5 books with their titles and Book Covers that are similar to that selected book.
